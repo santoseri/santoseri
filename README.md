@@ -1,5 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Olá eu sou Eritiéslens, mas pode me chamar de Eri, se preferir, é claro! 😄
 Eu tenho 37 anos, estou cursando Banco de Dados na ESTÁCIO, formado em Segurança da Informação pela UCB Brasília, e criei esse GitHub para armazenar meus projetos. Estou sempre buscando aprender coisas novas. 
+
 <br>
 <br>  
 
@@ -43,13 +44,12 @@ Logo abaixo está algumas redes sociais minhas :
 
 
 
-![Ayram GitHub Status](https://github-readme-stats.vercel.app/api?username=ZoeDoceAmarga&show_icons=true&theme=gruvbox)
+![Eritiéslens GitHub Status](https://github-readme-stats.vercel.app/api?username=santoseri&show_icons=true&theme=gruvbox)
 <br/>
 <br/>
 <br/>
 
 ## 🎁 Expressões de gratidão
-- Primeiramente, obrigada por você chegar até aqui, você é demais!
 - Conte a outras pessoas sobre este perfil 📢
 
 
