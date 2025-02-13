@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Olá eu sou Eritiéslens, mas pode me chamar de Eri, se preferir, é claro! 😄
-Eu tenho 37 anos, estou cursando Banco de Dados na ESTÁCIO, formado em Segurança da Informação pela UCB Brasília, e criei esse GitHub para armazenar meus projetos. Estou sempre buscando aprender coisas novas. 
+Eu tenho 39 anos, estou cursando Banco de Dados na ESTÁCIO, formado em Segurança da Informação pela UCB Brasília, e criei esse GitHub para armazenar meus projetos. Estou sempre buscando aprender coisas novas. 
 
 <br>
 <br>  
