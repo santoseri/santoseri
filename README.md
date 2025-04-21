@@ -52,6 +52,8 @@ Logo abaixo está algumas redes sociais minhas :
 ## 🎁 Expressões de gratidão
 - Conte a outras pessoas sobre este perfil 📢
 
+- ![Snake animation](https://github.com/santoseri/santoseri/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **ZoeDoceAmarga/ZoeDoceAmarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
